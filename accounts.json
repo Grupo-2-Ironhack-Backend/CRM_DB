@@ -146,5 +146,12 @@
     "city": "Madrid",
     "country": "Spain",
     "opportunities": []
+  },
+  {
+    "id": "1",
+    "industry": "EXAMPLE",
+    "city": "Madrid",
+    "country": "Spain",
+    "opportunities": []
   }
 ]
