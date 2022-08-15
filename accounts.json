@@ -139,5 +139,12 @@
         "status": "EXAMPLE"
       }
     ]
+  },
+  {
+    "id": "1",
+    "industry": "EXAMPLE",
+    "city": "Madrid",
+    "country": "Spain",
+    "opportunities": []
   }
 ]
