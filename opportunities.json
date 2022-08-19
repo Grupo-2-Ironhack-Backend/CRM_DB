@@ -8,7 +8,6 @@
       "email": "Spain",
       "companyName": ""
     },
-    "porductType": "EXAMPLE",
     "numberOfTrucks": 5,
     "status": "EXAMPLE"
   },
@@ -21,7 +20,6 @@
       "email": "Spain",
       "companyName": ""
     },
-    "porductType": "EXAMPLE",
     "numberOfTrucks": 20,
     "status": "EXAMPLE"
   },
@@ -34,8 +32,20 @@
       "email": "Spain",
       "companyName": ""
     },
-    "porductType": "EXAMPLE",
     "numberOfTrucks": 50,
     "status": "EXAMPLE"
+  },
+  {
+    "id": "763f0864-d772-4ceb-8ffa-f3fee14e1ca8",
+    "decisionMaker": {
+      "id": "2104262a-f2bc-47e0-949f-88555e2af0b4",
+      "name": "jhon",
+      "phoneNumber": "283948476",
+      "email": "ehrqwiulew@dnewifun.es",
+      "companyName": "IronHack"
+    },
+    "productType": "HYBRID",
+    "numberOfTrucks": 10,
+    "status": "OPEN"
   }
 ]
